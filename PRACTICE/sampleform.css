@@ -1,0 +1,57 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background-color: #F9F9F9;
+}
+
+.container {
+    max-width: 1000px;
+    
+}
+
+.divniform {
+    width: auto;
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    background-color: #F7E590;
+    border: 10px double;
+    border-radius: 30px;
+}
+
+form {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.divniform h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color: chocolate;
+}
+
+.personalinformation {
+    background-color: aqua;
+}
+
+.formbox h2 {
+    text-align: left;
+    font-size: 30px;
+    padding-left: 20px;
+}
+
+.names {
+    background: #A7694D;
+    display: flex;
+    align-content: space-between;
+    justify-content:center;
+}
+
+.signup {
+    background-color: #F7D3C3;
+}
